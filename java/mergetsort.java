@@ -48,7 +48,7 @@ public class mergetsort {
 
     // Example usage
     public static void main(String args[]) {
-        MergeSort ob = new MergeSort();
+        mergetsort ob = new mergetsort();
         int arr[] = {12, 11, 13, 5, 6, 7};
         ob.sort(arr, 0, arr.length - 1);
 
